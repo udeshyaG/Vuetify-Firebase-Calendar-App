@@ -1,24 +1,12 @@
-# vuetify-calendar
+# (Click Here)[https://vuetify-calendar-23a4b.firebaseapp.com/] to view app 📅
 
-## Project setup
-```
-npm install
-```
+## Technology Used
+  - Vue JS (front End Framework) ☺
+  - Vuetify (Vue UI library for Material Design) 💖
+  - Firestore (NoSQL database provided by Firebase) 💻
+  - Firebase Hosting 🌟
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## How to Use
+ - Click button to add new event
+ - On clicking Create, a new event displays on your selected date
+ - Click on the event to view, edit and delete
